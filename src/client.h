@@ -22,8 +22,8 @@
 #ifndef PVR_DVBVIEWER_CLIENT_H
 #define PVR_DVBVIEWER_CLIENT_H
 
-#include "kodi/libXBMC_addon.h"
-#include "kodi/libXBMC_pvr.h"
+#include "mrmc/libXBMC_addon.h"
+#include "mrmc/libXBMC_pvr.h"
 #include "platform/util/StdString.h"
 
 #ifndef _UNUSED
