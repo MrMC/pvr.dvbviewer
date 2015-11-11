@@ -1,5 +1,5 @@
 # DVBViewer PVR
-DVBViewer PVR client addon for [Kodi] (http://kodi.tv)
+DVBViewer PVR client addon for [MrMC] (http://mrmc.tv)
 
 supporting streaming of Live TV & Recordings, EPG, Timers.
 
@@ -7,5 +7,5 @@ supporting streaming of Live TV & Recordings, EPG, Timers.
 
 * [DVBViewer PVR setup guide] (http://kodi.wiki/view/Add-on:DVBViewer_Client)
 * [DVBViewer PVR user support] (http://forum.kodi.tv/forumdisplay.php?fid=219)
-* [Kodi's PVR user support] (http://forum.kodi.tv/forumdisplay.php?fid=167)
-* [Kodi's PVR development support] (http://forum.kodi.tv/forumdisplay.php?fid=136)
+* [MrMC's PVR user support] (http://forum.mrmc.tv)
+* [MrMC's PVR development support] (http://forum.mrmc.tv)
